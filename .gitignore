@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+__pycache__
+MNIST
+*.png
+*.docx
+*.zip
